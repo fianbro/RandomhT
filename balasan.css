@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  background: skyblue;
+}
+.body {
+  margin: 0;
+  padding: 0;
+}
+.balasan {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-family: "Comic Sans MS", Sans-Serif;
+}
+.balasan h2 {
+  color: #fff;
+ }
+ .balasan p {
+  color: #222;
+}
+.sp {
+  justify-content: center;
+  text-align: center;
+}
+.sp a {
+  text-decoration: none;
+  padding: 10px;
+  color: #fff;
+  background: #06c2ac;
+  border-radius: 15px 50px;
+}
+.sp a:hover{
+  background-color: rgb(119, 0, 255);
+  color: #222;
+}
